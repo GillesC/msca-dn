@@ -1,14 +1,11 @@
-# MSCA-PF: LaTeX Template
+# MSCA-DN: LaTeX Template
 
 [![GitHub Actions Workflow Status](https://github.com/alexfikl/msca-pf/actions/workflows/ci.yml/badge.svg)](https://github.com/alexfikl/msca-pf/actions/workflows/ci.yml)
 [![Open in Overleaf](https://img.shields.io/static/v1?label=LaTeX&message=Open-in-Overleaf&color=47a141&style=flat&logo=overleaf)](https://www.overleaf.com/docs?snip_uri=https://github.com/alexfikl/msca-pf/archive/refs/heads/main.zip)
 
 > [!NOTE]
-> This is an unofficial template based on the templates provided by the MSCA-PF
-> program (originally in the RTF format). Proposals based on this template have
-> been successfully submitted in 2022 and 2024 (to my knowledge). Newer
-> versions of this template are available and reporting any discrepancies is
-> highly appreciated!
+> This is an unofficial template based on the unofficial [MSCA-PF](https://github.com/alexfikl/msca-pf).
+
 
 LaTeX class and template for Marie Skłodowska-Curie Actions Postdoctoral Fellow
 grant applications.
